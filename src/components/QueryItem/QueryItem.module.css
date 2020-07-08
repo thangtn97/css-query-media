@@ -1,0 +1,11 @@
+.QueryItem {
+  margin: 5px;
+  padding: 5px;
+  list-style: none;
+  border: solid 1px #ccc;
+  background-color: #ccc;
+  display: flex;
+  justify-content: space-between;
+  border-radius: 5px;
+}
+

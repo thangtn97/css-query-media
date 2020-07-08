@@ -1,0 +1,26 @@
+.InputText {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  border: 1px solid #ccc;
+  box-shadow: 5px 2px 5px  #888888;
+  margin: 10px auto;
+  width: 60%;
+  max-width: 500px;
+}
+
+.Suggestions {
+  list-style: none;
+  padding: 5px 0;
+  cursor: pointer
+}
+
+.Input {
+  display: flex;
+  flex-direction: column;
+  margin: 10px;
+}
+
+.AddBtn {
+  margin: 10px 0;
+}

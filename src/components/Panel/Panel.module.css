@@ -1,0 +1,12 @@
+.Panel {
+  width: 400px;
+  height: 300px;
+  resize: horizontal;
+  overflow: auto;
+  border: 1px solid black;
+  margin: 10px;
+}
+
+
+
+
